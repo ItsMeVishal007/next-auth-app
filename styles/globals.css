@@ -22,3 +22,15 @@ a {
   text-align: center;
   padding: 20px;
 }
+.Myform{
+  width: 40%;
+  height:150px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.Myform button {
+  width: 100px;
+}
